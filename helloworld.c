@@ -2,7 +2,6 @@
 int
 main()
 {
-	cout<<"hello world!"<<endl;
-	cout<<"I like linux kernel."<<endl;
+	cout<<"hello linux ^_^"<<endl;
 	return 0;
 }
