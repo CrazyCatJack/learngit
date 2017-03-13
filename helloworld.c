@@ -2,6 +2,7 @@
 int
 main()
 {
-	cout<<"hello linux ^_^"<<endl;
+	cout<<"hello linux ........."<<endl;
+	cout<<"suannihen"<<endl;
 	return 0;
 }
