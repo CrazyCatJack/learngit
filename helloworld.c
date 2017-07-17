@@ -1,6 +1,5 @@
 #include<stdio.h>
 int
-main()
 {
 <<<<<<< HEAD
 	cout<<"hello linux ........."<<endl;
