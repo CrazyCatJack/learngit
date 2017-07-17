@@ -9,5 +9,6 @@ main()
 	cout<<"hello world!"<<endl;
 	cout<<"I like linux device."<<endl;
 >>>>>>> xuri
+	//just for this test 7.17
 	return 0;
 }
